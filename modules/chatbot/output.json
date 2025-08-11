@@ -1,0 +1,34 @@
+[
+    {
+        "query": "Thanks for choosing Product TroubleShooting please select one of the product from below or ask your query directly.",
+        "answer": "still active"
+    },
+    {
+        "query": "what is life",
+        "answer": "you should say life is good"
+    },
+    {
+        "query": "nice work",
+        "answer": "You should take the compliment nicely"
+    },
+    {
+        "query": "what does MOTS stand for",
+        "answer": "MOTS stand for Metal over the side"
+    },
+    {
+        "query": "Hello",
+        "answer": "fffrdr"
+    },
+    {
+        "query": "hii",
+        "answer": "testing"
+    },
+    {
+        "query": "Why do I need to use my p fuse ?",
+        "answer": "The heater sheath overtemperature \u201cprotector\u201d fuse is a required safety device. It is designed to detect when the heater sheath exceeds a predetermined temperature, and trip. The protector must be wired such that when it trips all of the heaters operating in that tank are shut off."
+    },
+    {
+        "query": "My control is flashing UUU",
+        "answer": "The \u201cUUU\u201d message typically denotes a bad temperature sensor. If you have a replacement temperature sensor available, try replacing the sensor on the controller. "
+    }
+]

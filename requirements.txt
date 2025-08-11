@@ -1,0 +1,34 @@
+Flask
+flask-cors
+langchain
+langchain_openai
+pymongo
+openai
+python-dotenv
+# json
+# logging
+# Both json and logging are part of Python's standard library, meaning they do not need to be installed separately using pip or conda.
+faiss-cpu
+langchain-community
+pandas
+numpy
+beautifulsoup4
+PyPDF2
+python-docx
+openpyxl
+pypdf
+
+# Flask==2.2.2
+# flask-cors==3.1.1
+# langchain==0.0.136
+# langchain_openai==0.0.136
+# pymongo==3.12.3
+# openai==0.27.0
+# python-dotenv==0.21.0
+# json==2.0.9
+# logging==0.5.1.2
+# faiss-cpu==1.7.3
+# langchain-community==0.0.1
+# pandas==1.5.3
+# numpy==1.24.1
+

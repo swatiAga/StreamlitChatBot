@@ -1,0 +1,48 @@
+# --- Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual envs
+.venv/
+venv/
+env/
+
+# --- Secrets / config (keep a .env.example in repo)
+.env
+.env.*
+.streamlit/secrets.toml
+
+# --- Jupyter (for the "MyFilesToBeDeletedLater/test.ipynb")
+.ipynb_checkpoints/
+
+# --- Logs & caches
+*.log
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# --- Build / artifacts
+dist/
+build/
+
+# --- FAISS / vector indexes
+faiss_index_vectors/
+*.faiss
+*.pkl
+
+# --- Local data folders (large, machine-specific)
+uploads/
+MyFilesToBeDeletedLater/
+
+# --- OS / editor noise
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# --- Odd Windows path entries that appeared in the zip
+C:\Users*/

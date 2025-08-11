@@ -1,0 +1,3531 @@
+[
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}{phase_code}",
+        "Series": [
+            "2T = 316 stainless steel",
+            "T2T = titanium",
+            "IN2T = incoloy"
+        ],
+        "Wattage list": [
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "6 = 6000",
+            "8 = 8000",
+            "10 = 10000",
+            "12 = 12000",
+            "15 = 15000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "8 = 2kW",
+            "12 = 3kW",
+            "18 = 4kW",
+            "25 = 6kW",
+            "32 = 8kW",
+            "40 = 10kW (SS only)",
+            "48 = 12kW",
+            "54 = 15kW (SS only)"
+        ],
+        "Phase list": [
+            "no designator = Single phase (std)",
+            "-3 = three phase power (three elements)",
+            "-M2 = explosion/moisture resisting housing",
+            "-W = thermowell",
+            "-T = integral thermostat"
+        ],
+        "sample_model_no": "2T218"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}{phase_code}-{protector_code}-36",
+        "Series": "3HS = 3 element, 316 stainless steel",
+        "Wattage list": [
+            "3 = 3000",
+            "4.5 = 4500",
+            "7.5 = 7500",
+            "10.5 = 10500"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "17 = 3kW",
+            "23 = 4.5kW",
+            "29 = 7.5kW",
+            "34 = 10.5kW"
+        ],
+        "Phase list": [
+            "no designator = three phase (std)",
+            "-1 = single phase",
+            "M = Metal welded junction box (resettable protector required)"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "3HS317P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}-{phase_code}-{protector_code}-36",
+        "Series": "3HX = PTFE",
+        "Wattage list": [
+            "1 = 1000",
+            "1.5 = 1500",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "17 = 1kW",
+            "23 = 1.5kW",
+            "29 = 2kW",
+            "35 = 3kW",
+            "47 = 4kW",
+            "59 = 5kW",
+            "68 = 6kW"
+        ],
+        "Phase list": "1 = single",
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = solutions up to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "3HX117-1-P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{width_code}-{hot_zone_code}{overall_length_code}-{phase_code}{protector_code}-36",
+        "Series": "3HXO = PTFE",
+        "Wattage list": [
+            "1.5 = 1500",
+            "3 = 3000",
+            "4.5 = 4500",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Width list": [
+            "10.5 = 1.5-3.5kW",
+            "11 = 3kW",
+            "13 = 4.5kW"
+        ],
+        "Hot Zone list": [
+            "08 = 1.5kW",
+            "11 = 3kW",
+            "13 = 4.5kW",
+            "15 = 6kW",
+            "18 = 9kW"
+        ],
+        "Overall Length list": [
+            "08 = 1.5kW",
+            "11 = 3kW",
+            "13 = 4.5kW",
+            "15 = 6kW",
+            "18 = 9kW",
+            "22.5 = 12kW",
+            "27 = 15kW",
+            "31 = 18kW"
+        ],
+        "Phase list": [
+            "3 phase (std.), no designator",
+            "1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = 190\u00c2\u00b0F to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = 210\u00c2\u00b0F to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": [
+            "36\" length standard (no designator)",
+            "Specify variations from standard Ex: -X84 = 84\""
+        ],
+        "sample_model_no": "3HXO11108-08-11-P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{width_code}-{heater_pad_length_code}-{vertical_length_code}{phase_code}-{protector_code}-36",
+        "Series": "3HXOL = PTFE",
+        "Wattage list": [
+            "3 = 3000",
+            "4.5 = 4500",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Width list": [
+            "08 = 3kW",
+            "10.5 = 4.5kW",
+            "10.5 = 6kW",
+            "10.5 = 9kW",
+            "10.5 = 12kW",
+            "10.5 = 15kW",
+            "10.5 = 18kW"
+        ],
+        "Heater Pad Length (In.) list": [
+            "13 = 3kW",
+            "11 = 4.5kW",
+            "19 = 6kW",
+            "23 = 9kW",
+            "30 = 12kW",
+            "36 = 15kW",
+            "42 = 18kW"
+        ],
+        "Vertical Length (In.) list": [
+            "R18 = R18 (3kW)"
+        ],
+        "Phase list": [
+            "3 phase (std), no designator",
+            "1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = 190\u00c2\u00b0 to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = 210\u00c2\u00b0 to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "3HXOL31108-13-R18-1-P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}{phase_code}",
+        "Series": [
+            "5T = 316 stainless steel",
+            "IN5T = incoloy",
+            "T5T = titanium"
+        ],
+        "Wattage list": [
+            "4.5 = 4500",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "4 = 480",
+            "-208- = 208",
+            "-380- = 380",
+            "-415- = 415",
+            "-600- = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length list": [
+            "12 = 4.5kW",
+            "13 = 6kW",
+            "17 = 6kW",
+            "23 = 9kW",
+            "25 = 9kW",
+            "28 = 12kW",
+            "32 = 12kW",
+            "38 = 18kW",
+            "40 = 15kW",
+            "48 = 18kW"
+        ],
+        "Phase list": [
+            "no designator = three phase power (standard)",
+            "-1 = single phase power",
+            "-M2 = explosion/moisture resistant housing",
+            "-W = thermowell",
+            "-T2 = integral thermostat",
+            "-X = any special configuration not called out"
+        ],
+        "sample_model_no": "5T246-12"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}{phase_code}-{protector_code}-36",
+        "Series": "6HS = 6 element, 316 stainless steel",
+        "Wattage list": [
+            "6 = 6000",
+            "9 = 9000",
+            "15 = 15000",
+            "21 = 21000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "4 = 480",
+            "-208- = 208",
+            "-380- = 380",
+            "-415- = 415",
+            "-600- = 600"
+        ],
+        "Overall Length (In.) list": [
+            "17 = 6kW",
+            "23 = 9kW",
+            "29 = 15kW",
+            "34 = 21kW"
+        ],
+        "Phase list": [
+            "X = any special configuration",
+            "No designator = three phase power (std)",
+            "-1 = single phase power"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "6HS217-1-P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}-{phase_code}{protector_code}-36",
+        "Series": "6HX = PTFE",
+        "Wattage list": [
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "6 = 6000",
+            "8 = 8000",
+            "10 = 10000",
+            "12 = 12000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "17 = 2kW",
+            "23 = 3kW",
+            "29 = 4kW",
+            "35 = 6kW",
+            "47 = 8kW",
+            "59 = 10kW",
+            "68 = 12kW"
+        ],
+        "Phase list": [
+            "No Designator = 3-phase (std.)",
+            "1 = Single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = solutions up to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "6HX217-1P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}-{phase_code}{protector_code}-36",
+        "Series": "9HS = 9 element, 316 stainless steel",
+        "Wattage list": [
+            "9 = 9000",
+            "13.5 = 13500",
+            "22.5 = 22500",
+            "31.5 = 31500"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "17 = 9kW",
+            "23 = 13.5kW",
+            "29 = 22.5kW",
+            "34 = 31.5kW"
+        ],
+        "Phase list": [
+            "No Designator = three phase (std)",
+            "-1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "9HS217-1P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{overall_length_code}-{phase_code}-{protector_code}-36",
+        "Series": "9HX = PTFE",
+        "Wattage list": [
+            "3 = 3000",
+            "4.5 = 4500",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length list": [
+            "17 = 3kW",
+            "23 = 4.5kW",
+            "29 = 6kW",
+            "35 = 9kW",
+            "47 = 12kW",
+            "59 = 15kW",
+            "68 = 18kW"
+        ],
+        "Phase list": [
+            "No Designator = 3-phase (std.)",
+            "1 = Single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = solutions up to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "9HX217-1-P1-36"
+    },
+    {
+        "model_no": "BF{phase_code}-{branches_code}{circuit_protection_code}-{fuse_value_1}-{fuse_value_2}-{fuse_value_3}-{fuse_value_4}-{wiring_code}",
+        "Series": "Branch Fuse Box",
+        "Phase list": [
+            "1 = Single Phase",
+            "3 = 3 Phase"
+        ],
+        "# of Branches list": [
+            "1 = 1 Branch",
+            "2 = 2 Branches",
+            "3 = 3 Branches",
+            "4 = 4 Branches"
+        ],
+        "Circuit Protection list": [
+            "F = Fuse",
+            "B = Breaker"
+        ],
+        "1st Fuse Value": "30",
+        "2nd Fuse Value": "30",
+        "3rd Fuse Value": "30",
+        "4th Fuse Value": "30",
+        "Wiring list": [
+            "D = Delta",
+            "P = Parallel",
+            "Y = Wye"
+        ],
+        "sample_model_no": "BF3-4F-30-30-30-30-D"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}-{voltage_code}{phase_code}{inlet_outlet_code}{drain_code}{sensor_type_code}-{process_sensor_code}-{option_code}",
+        "Series": "CH = ChemHeat Series",
+        "Wattage list": [
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000"
+        ],
+        "Voltage list": [
+            "1 = 208",
+            "2 = 240",
+            "3 = 380",
+            "4 = 400",
+            "5 = 415",
+            "6 = 480",
+            "7 = 440",
+            "9 = 220",
+            "10 = 200",
+            "12 = 120",
+            "15 = 230",
+            "16 = 460"
+        ],
+        "Phase list": [
+            "1 = single phase",
+            "3 = three phase"
+        ],
+        "Inlet/Outlet Connection list": [
+            "A = 1/2 inch Flared",
+            "B = 3/4 inch Flared",
+            "C = 1 inch Flared",
+            "V = 1/2 inch Super 300 Pillar",
+            "W = 3/4 inch Super 300 Pillar",
+            "X = 1 inch Super 300 Pillar"
+        ],
+        "Drain Connection list": [
+            "A = 1/2 inch Flared",
+            "V = 1/2 inch Super 300 Pillar",
+            "S = 3/8 inch Flared",
+            "T = 3/8 inch Super 300 Pillar"
+        ],
+        "Element Sensor Type list": [
+            "E = Type E thermocouple",
+            "J = Type J thermocouple",
+            "K = Type K thermocouple",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)"
+        ],
+        "Process Sensor Type list": [
+            "O = No Sensor (standard)",
+            "E = Type E thermocouple",
+            "J = Type J thermocouple",
+            "K = Type K thermocouple",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)"
+        ],
+        "Options list": [
+            "Blank = No Option",
+            "X## = Longer wire length (inches)",
+            "## = Custom design",
+            "CB = PP bracket"
+        ],
+        "sample_model_no": "CH2-216AASJ-O-"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{standard_option_code}",
+        "Control Type": "T-",
+        "Series": "DE",
+        "Amperes": "20",
+        "Control Options": "-VC = 1-10VDC output",
+        "Standard Options list": [
+            "-R = 100 ohm RTD sensor",
+            "-L = No sensor",
+            "-H = high temperature sensor",
+            "-25 = 25 foot RTD sensor",
+            "-50 = 50 foot RTD sensor",
+            "-F = FEP sleeved sensor"
+        ],
+        "sample_model_no": "T-DE20-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{voltage_code}{control_option_code}{standard_option_code}",
+        "Control Type": "C - Combo",
+        "Series": "DE",
+        "Amperes list": [
+            "20",
+            "40",
+            "80",
+            "125"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Options list": [
+            "E = Easyplug",
+            "-VC = 100 ohm, volt, current board"
+        ],
+        "Standard Options list": [
+            "-R = RTD 100",
+            "-L = No sensor",
+            "-H = high temperature sensor",
+            "-25 = 25 foot RTD sensor",
+            "-50 = 50 foot RTD sensor",
+            "-F = FEP sleeved sensor",
+            "-P2 = thermal protector 2 circuitry",
+            "-P3 = thermal protector 3 circuitry",
+            "-P8 = thermal protector 8 circuitry",
+            "*LC** = conductive liquid level",
+            "*ESP** = capacitive liquid level",
+            "-D = digital timer",
+            "-G = ground fault protection",
+            "-N = NEMA 4X",
+            "-NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "C-DE20-2E-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes_code}{voltage_code}{control_options_code}-{standard_options_code}",
+        "Control Type": "B-",
+        "Series": "DE",
+        "Amperes list": "30",
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Options list": [
+            "E = Easyplug",
+            "VC = 100 ohm, volt, current board"
+        ],
+        "Standard Options list": [
+            "R = RTD 100",
+            "L = No sensor",
+            "H = High temperature sensor",
+            "25 = 25 foot RTD sensor",
+            "50 = 50 foot RTD sensor",
+            "F = FEP sleeved sensor",
+            "P2 = Thermal protector 2 circuitry",
+            "P3 = Thermal protector 3 circuitry",
+            "P8 = Thermal protector 8 circuitry",
+            "*LC* = Conductive liquid level",
+            "*ESP* = Capacitive liquid level",
+            "D = Digital timer",
+            "G = Ground fault protection",
+            "N = NEMA 4X",
+            "NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "B-DE30-2E-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{voltage_code}{control_option_code}{standard_option_code}",
+        "Control Type": "C - Combo",
+        "Series": "DLC",
+        "Amperes list": [
+            "20",
+            "40",
+            "80",
+            "125"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Option list": [
+            "E = Easyplug",
+            "-C = Celsius display"
+        ],
+        "Standard Options list": [
+            "-L = No sensor",
+            "-25 = 25 foot thermistor",
+            "-50 = 50 foot thermistor",
+            "-F = FEP sensor sleeve",
+            "-P2 = thermal protector 2 circuitry",
+            "-P3 = thermal protector 3 circuitry",
+            "-P8 = thermal protector 8 circuitry",
+            "*LC** = conductive liquid level",
+            "*ESP** = capacitive liquid level",
+            "-D = digital timer",
+            "-G = ground fault protection",
+            "-N = NEMA 4X",
+            "-NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "C-DLC20-2E-L"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{voltage_code}{control_option_code}{standard_option_code}",
+        "Control Type": "T-",
+        "Series": "DLC",
+        "Amperes": "16",
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240"
+        ],
+        "Control Options list": [
+            "No designator = Fahrenheit",
+            "C = Celsius"
+        ],
+        "Standard Options list": [
+            "-L = No Sensor",
+            "-25 = 25 foot thermistor",
+            "-50 = 50 foot thermistor",
+            "-F = FEP sensor sleeve",
+            "-V = 6x3 inch enclosure"
+        ],
+        "sample_model_no": "T-DLC16-2-L"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{voltage_code}{control_option_code}{standard_option_code}",
+        "Control Type": "C = Combo",
+        "Series": "DQ",
+        "Amperes list": [
+            "20",
+            "40",
+            "80",
+            "125"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Option list": [
+            "E = Easyplug",
+            "-M = Milliamp output"
+        ],
+        "Standard Options list": [
+            "-R = RTD 100",
+            "-H = High temp sensor",
+            "-L = No sensor",
+            "-R = Rigid RTD (specify length)",
+            "-25 = 25 foot RTD sensor",
+            "-50 = 50 foot RTD sensor",
+            "-F = FEP sleeved sensor",
+            "P2 = thermal protector 2 circuitry",
+            "P3 = thermal protector 3 circuitry",
+            "P8 = thermal protector 8 circuitry",
+            "*LC** = conductive liquid level",
+            "*ESP** = capacitive liquid level",
+            "-D = digital timer",
+            "-G = ground fault protection",
+            "-N = NEMA 4X",
+            "NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "C-DQ20-2E-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes_code}{voltage_code}{control_options_code}-{standard_options_code}",
+        "Control Type": "B-",
+        "Series": "DQ",
+        "Amperes": "30",
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Option list": [
+            "E = Easyplug",
+            "-MA = Milliamp output"
+        ],
+        "Standard Options list": [
+            "R = RTD 100",
+            "H = High temp sensor",
+            "L = No sensor",
+            "-R = Rigid RTD (specify length)",
+            "25 = 25 foot RTD sensor",
+            "50 = 50 foot RTD sensor",
+            "F = FEP sleeved sensor",
+            "P2 = Thermal protector 2 circuitry",
+            "P3 = Thermal protector 3 circuitry",
+            "P8 = Thermal protector 8 circuitry",
+            "*LC* = Conductive liquid level",
+            "*ESP* = Capacitive liquid level",
+            "G = Ground fault protection",
+            "D = Digital timer",
+            "N = NEMA 4X",
+            "NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "B-DQ30-2E-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{volts_code}{control_option}{standard_option_code}",
+        "Control Type": "T-",
+        "Series": "DQ",
+        "Amperes": "15",
+        "Volts list": [
+            "1 = 120",
+            "2 = 240"
+        ],
+        "Control Options": "-MA = milliamp output",
+        "Standard Options list": [
+            "-H = high temperature sensor",
+            "-L = No sensor",
+            "-R = 100 ohm RTD",
+            "-__R = Rigid 1000 ohm RTD",
+            "-25 = 25 foot RTD sensor",
+            "-50 = 50 foot RTD sensor",
+            "-F = FEP sensor sleeve"
+        ],
+        "sample_model_no": "T-DQ15-2MA-H"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{voltage_code}{control_option_code}{standard_option_code}",
+        "Control Type": "C = Combo",
+        "Series": "DSL",
+        "Amperes list": [
+            "20",
+            "40",
+            "80",
+            "125"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Option list": [
+            "E = Easyplug",
+            "MAR = Milliamp output recording",
+            "RS = RS485 output",
+            "VC = 15VDC control output NC",
+            "VC-RS = 15VDC output/RS485 output",
+            "VR = Voltage output recording"
+        ],
+        "Standard Options list": [
+            "R = RTD100",
+            "-J = J Type TC",
+            "-K = K Type TC",
+            "-L = Less sensor",
+            "-H = High temp sensor",
+            "-25 = 25 foot sensor",
+            "-50 = 50 foot sensor",
+            "-F = FEP sleeved sensor",
+            "P2 = thermal protector 2 circuitry",
+            "P3 = thermal protector 3 circuitry",
+            "P8 = thermal protector 8 circuitry",
+            "*LC** = conductive liquid level",
+            "*ESP** = capacitive liquid level",
+            "-D = digital timer",
+            "-G = ground fault protection",
+            "-N = NEMA 4X",
+            "NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "C-DSL20-2E-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes_code}{voltage_code}{control_options_code}{standard_options_code}",
+        "Control Type": "C - Combo",
+        "Series": "DSL",
+        "Amperes list": [
+            "20",
+            "40",
+            "80",
+            "125"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Control Option list": [
+            "E = Easyplug",
+            "MAR = Milliamp output recording",
+            "RS = RS485 output",
+            "VC = 15VDC control output NC",
+            "VC-RS = 15VDC output/RS485 output",
+            "VR = Voltage output recording"
+        ],
+        "Standard Options list": [
+            "R = RTD100",
+            "J = J Type TC",
+            "K = K Type TC",
+            "L = Less sensor",
+            "H = High temp sensor",
+            "25 = 25 foot sensor",
+            "50 = 50 foot sensor",
+            "F = FEP sleeved sensor",
+            "P2 = Thermal protector 2 circuitry",
+            "P3 = Thermal protector 3 circuitry",
+            "P8 = Thermal protector 8 circuitry",
+            "*LC* = Conductive liquid level",
+            "*ESP* = Capacitive liquid level",
+            "D = Digital timer",
+            "G = Ground fault protection",
+            "N = NEMA 4X",
+            "NH = NEMA 4X with heater"
+        ],
+        "sample_model_no": "C-DSL20-2E-R"
+    },
+    {
+        "model_no": "{control_type}{series_code}{amperes}{voltage_code}{control_option_code}{standard_option_code}",
+        "Control Type": "T-",
+        "Series": "DSL",
+        "Amperes": "3",
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240"
+        ],
+        "Control Options list": [
+            "E = Easyplug",
+            "MAR = Milliamp output recording",
+            "RS = RS485 output",
+            "VC = 15VDC control output NC",
+            "VC-RS = 15VDC output/ RS485 output",
+            "VR = Voltage output recording"
+        ],
+        "Standard Options list": [
+            "R = RTD100",
+            "-J = J Type TC",
+            "-K = K Type TC",
+            "-L = Less sensor",
+            "-H = High temp sensor",
+            "-25 = 25 foot sensor",
+            "-50 = 50 foot sensor",
+            "-F = FEP sleeved sensor"
+        ],
+        "sample_model_no": "T-DSL3-2E-R"
+    },
+    {
+        "model_no": "{series_code}{voltage_code}{option_code}",
+        "Series": "DTS",
+        "Voltage list": [
+            "-1 = 120",
+            "-2 = 240"
+        ],
+        "Options list": [
+            "-PB = mounted in plastic enclosure",
+            "-X = any special configuration not called out in the part number (specify in clear text)"
+        ],
+        "sample_model_no": "DTS-1-PB"
+    },
+    {
+        "model_no": "{series}{material_code}{clean_length}",
+        "Series": "ESP",
+        "Options": "V = mounted in vertical tube",
+        "Vertical Tube Material list": [
+            "C = CPVC",
+            "K = PVDF",
+            "X = PTFE"
+        ],
+        "Vertical Tube Length": "24\"",
+        "sample_model_no": "ESPV-C24"
+    },
+    {
+        "model_no": "{flange_code}{series_code}{voltage_code}{horizontal_length}-{heater_head}-{protector_code}-36",
+        "Flange Size list": [
+            "3 = 3\"",
+            "5 = 5\"",
+            "6 = 6\""
+        ],
+        "Series list": [
+            "FLS = 316 Stainless Steel",
+            "FLT = Titanium"
+        ],
+        "Wattage": "3000 - 72000",
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400"
+        ],
+        "Horizontal Length (In.)": "09 = Consult model chart for length",
+        "Heater Head": "M2 = Metal head",
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 220\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "3FLS2-09-M2-P1-36"
+    },
+    {
+        "model_no": "{flange_size}{series}{wattage}{voltage}{length}-{phase2}-{protector}-36",
+        "Flange Size list": "3 = 3\"",
+        "Series": "FLX = PTFE",
+        "Wattage list": [
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (in.) list": [
+            "11 = 1kW (3FLX)",
+            "16 = 2kW (3FLX)",
+            "21 = 3kW (3FLX)",
+            "28 = 4kW (3FLX)",
+            "32 = 5kW (3FLX)",
+            "35 = 6kW (3FLX)"
+        ],
+        "Phase list": [
+            "No Designator = single-phase (std. for 3FL)"
+        ],
+        "Type of Protector": [
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "3FLX211-11-P2-36"
+    },
+    {
+        "model_no": "{flange_size}{series}{wattage}{voltage}{length}-{phase2}-{protector}-36",
+        "Flange Size list": "6 = 6\"",
+        "Series": "FLX = PTFE",
+        "Wattage list": [
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (in.) list": [
+            "11 = 3kW (6FLX)",
+            "16 = 6kW (6FLX)",
+            "21 = 9kW (6FLX)",
+            "28 = 12kW (6FLX)",
+            "32 = 15kW (6FLX)",
+            "35 = 18kW (6FLX)"
+        ],
+        "Phase list": [
+            "No Designator = three-phase (std. for 6FL)",
+            "1 = single-phase (6FL only)"
+        ],
+        "Type of Protector": [
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "6FLX216-21-P2-36"
+    },
+    {
+        "model_no": "{series}{element_type}{wetted_material}{wattage}-{voltage}{phase}-{plumbing_connection}-{sensor}{overtemp_sensor}{tco}{tco_type}{flow_configuration}{overall_length}-{option}",
+        "Series": "F = Frontier",
+        "Element Type list": [
+            "R = Resistive style",
+            "P = PTC style (coming)"
+        ],
+        "Wetted Material": "S = 316SS (EP)",
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "18 = 18000",
+            "24 = 24000",
+            "36 = 36000"
+        ],
+        "Voltage list": [
+            "1 = 208V",
+            "2 = 240V",
+            "3 = 380V",
+            "4 = 400V",
+            "5 = 415V",
+            "6 = 480V",
+            "7 = 440V",
+            "8 = 575V",
+            "9 = 220V",
+            "10 = 200V",
+            "12 = 120V",
+            "14 = 600V",
+            "15 = 230V"
+        ],
+        "Phase list": [
+            "1 = single phase",
+            "3 = three phase"
+        ],
+        "Plumbing Connections (316SS) list": [
+            "-SN50 = 1/2\" Non Threaded Tube Stubs",
+            "-SN75 = 3/4\" Non Threaded Tube Stubs",
+            "-SN100 = 1\" Non Threaded Tube Stubs",
+            "-V50 = 1/2\" Swagelok VCR connections",
+            "-V75 = 3/4\" Swagelok VCR connections",
+            "-SF50 = 1/2\" Sanitary Flange",
+            "-SF75 = 3/4\" Sanitary Flange",
+            "-SF100 = 1\" Sanitary Flange"
+        ],
+        "# of Sensors": [
+            "1",
+            "3"
+        ],
+        "Overtemp Sensor Type list": [
+            "K = K-type TC",
+            "E = E-type TC",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)"
+        ],
+        "# of TCO": [
+            "1",
+            "3"
+        ],
+        "TCO type list": [
+            "1 = 232\u00c2\u00b0C TCO. For applications up to 125\u00c2\u00b0C",
+            "2 = 288\u00c2\u00b0C TCO. For applications between 125-200\u00c2\u00b0C",
+            "3 = Non-Hermetically sealed 270\u00c2\u00b0C TCO (are not UL 823)",
+            "4 = Non-Hermetically sealed 232\u00c2\u00b0C TCO (for applications up to 125\u00c2\u00b0C) (are not UL 823)",
+            "5 = Non-Hermetically sealed 288\u00c2\u00b0C TCO (for applications up to 200\u00c2\u00b0C) (are not UL 823)"
+        ],
+        "Flow Configuration list": [
+            "L = Low flow range: (0\u00c2\u00b0-30\u00c2\u00b0) lpm",
+            "M = Medium flow range: (20-80) lpm",
+            "H = High flow range: (60+) lpm"
+        ],
+        "Overall Length list": [
+            "1 = 12.63\" Overall Length",
+            "2 = 18.13\" Overall Length",
+            "3 = 29.13\" Overall Length",
+            "4 = 40.13\" Overall Length"
+        ],
+        "Options list": [
+            "Blank = No Options",
+            "X_# = With Wire (specify length in inches and conduit position ex. X180A)",
+            "NE = Non-electropolished",
+            "## = TBD as needed",
+            "#### = Custom Clean req"
+        ],
+        "sample_model_no": "FRS3-21-SN50K1-1L1-"
+    },
+    {
+        "model_no": "{series_code}{tube_count}{style_coil}{coil_length[0:2]}{config_code}{service_code}{riser_code}{inlet_code}{outlet_code}",
+        "Series list": [
+            "P = Steel",
+            "S = 316 stainless steel",
+            "T = Titanium",
+            "H = Hastelloy C\u00c2\u00ae",
+            "Z = Zirconium"
+        ],
+        "No. of Tubes list": [
+            "8",
+            "12",
+            "16",
+            "20",
+            "24",
+            "28"
+        ],
+        "Style Coil": "G = Grid style",
+        "Coil Length": "24\"",
+        "Configuration list": [
+            "H = Horizontal",
+            "V = Vertical"
+        ],
+        "Service Conditions list": [
+            "S = Steam",
+            "W = Water"
+        ],
+        "Riser Height & Misc. list": [
+            "no designator (horizontal style) = 12\" riser (std)",
+            "no designator (vertical style) = 8\" riser (std)",
+            "-R = specify custom riser height",
+            "-BR = bottom style coil, specify riser height"
+        ],
+        "Inlet Sizes list": [
+            "A = 3/4\" MNPT",
+            "B = 1\" MNPT",
+            "C = 1-1/4\" MNPT",
+            "D = 1-1/2\" MNPT",
+            "E = 2\" MNPT",
+            "F = 1/2\" FNPT",
+            "G = 3/4\" FNPT",
+            "H = 1\" FNPT",
+            "J = 1/2\" FNPT"
+        ],
+        "Outlet Sizes list": [
+            "A = 3/4\" MNPT",
+            "B = 1\" MNPT",
+            "C = 1-1/4\" MNPT",
+            "D = 1-1/2\" MNPT",
+            "E = 2\" MNPT",
+            "F = 1/2\" FNPT",
+            "G = 3/4\" FNPT",
+            "H = 1\" FNPT",
+            "J = 1/2\" FNPT"
+        ],
+        "sample_model_no": "S8G24HSAF"
+    },
+    {
+        "model_no": "{series_code}{exchange_area_code}{outside_diameter_code}{coiled_length_code}{inlet_outlet_code}-R{riser_height_code}",
+        "Series": [
+            "PHC = Steel",
+            "SHC = 316 Stainless Steel",
+            "HHC = Hastelloy C\u00c2\u00ae",
+            "ZHC = Zirconium"
+        ],
+        "Exchange Area": "Specify in square feet Ex: 5 = 5 ft\u00c2\u00b2",
+        "Outside Diameter": "Specify in inches Ex: '-23 = 23\"",
+        "Coiled Length": "Specify in inches Ex: '-24 = 24\"",
+        "Inlet/Outlet list": [
+            "A = 3/4\" MNPT",
+            "B = 1\" MNPT (standard)",
+            "C = 1-1/4\" MNPT",
+            "D = 1-1/2\" MNPT",
+            "F = 1/2\" FNPT",
+            "G = 3/4\" FNPT",
+            "H = 1\" FNPT",
+            "J = 1/2\" MNPT"
+        ],
+        "Riser Height": "Specify in inches Ex: '-R16 = 16\" riser height'",
+        "sample_model_no": "SHC5-23-24B-R16"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}-{voltage_code}{phase_code}{configuration_code}",
+        "Series": "HCQ",
+        "Wattage list (kW)": [
+            "1.5 = 1,500",
+            "2 = 2,000",
+            "2.25 = 2,500",
+            "3 = 3,000",
+            "4 = 4,000",
+            "4.5 = 4,500",
+            "5 = 5,000",
+            "5.5 = 5,500",
+            "6 = 6,000",
+            "6.75 = 6,750",
+            "7.5 = 7,500",
+            "8 = 8,000",
+            "8.3 = 8,300",
+            "9 = 9,000",
+            "10 = 10,000",
+            "11.2 = 11,200",
+            "12 = 12,000"
+        ],
+        "Voltage list": [
+            "208",
+            "240",
+            "380",
+            "400",
+            "415",
+            "480",
+            "440",
+            "220",
+            "200"
+        ],
+        "Phase list": [
+            "1 = Single Phase",
+            "3 = Three Phase"
+        ],
+        "Configuration": "001 = Standard",
+        "sample_model_no": "HCQ1.5-2401-001"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}-{protector_code}-36",
+        "Series list": [
+            "HX = 1 Element",
+            "2HX = 2 Element"
+        ],
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "8 = 8000",
+            "9 = 9000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length list": [
+            "11 = .5kW",
+            "17 = 1kW",
+            "23 = 2kW",
+            "29 = 3kW",
+            "35 = 4kW",
+            "40 = 5kW",
+            "47 = 6kW",
+            "54 = 9kW"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = solutions up to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HX1-117P1-36"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}{diameter_code}-{length_code}-{protector_code}-36",
+        "Series": "HXF = PTFE",
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Diameter (in.) list": [
+            "05 = .5kW",
+            "06 = 1kW",
+            "08 = 2kW",
+            "10 = 3kW",
+            "11 = 4kW",
+            "12 = 5kW",
+            "13 = 6kW"
+        ],
+        "Overall Length list": [
+            "14 = .5kW",
+            "14 = 1kW",
+            "17 = 2kW",
+            "23 = 3kW",
+            "29 = 4kW",
+            "35 = 5kW",
+            "40 = 6kW"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions 190\u00c2\u00b0F to 220\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = solutions up to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXF1-0614P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{diameter_code}-{vertical_length_code}-{protector_code}-36",
+        "Series list": [
+            "HXL = 1 element",
+            "2HXL = 2 element"
+        ],
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "8 = 8000",
+            "9 = 9000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Diameter (in.) list": [
+            "06 = .5kW",
+            "08 = 1kW",
+            "10 = 2kW",
+            "12 = 3kW",
+            "17 = 3kW",
+            "24 = 4kW",
+            "29 = 6kW",
+            "37 = 8kW",
+            "44 = 9kW"
+        ],
+        "Vertical Length (in.) list": [
+            "R12 = .5kW",
+            "R12 = 1kW",
+            "R18 = 2kW",
+            "R18 = 3kW",
+            "R18 = 4kW",
+            "R18 = 5kW",
+            "R18 = 6kW",
+            "R18 = 8kW",
+            "R18 = 9kW"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = solutions up to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = solutions up to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXL106-12R12-P1-36"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}{width_code}-{hot_zone_code}-{length_code}-{protector_code}-36",
+        "Series": "HXO = PTFE",
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "8 = 8000",
+            "9 = 9000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Width list": [
+            "05 = .5kW",
+            "06 = 1kW",
+            "08 = 2kW",
+            "10 = 3kW",
+            "12 = 4kW",
+            "15 = 5kW",
+            "18 = 6kW",
+            "22 = 8kW",
+            "26 = 9kW"
+        ],
+        "Hot Zone list": [
+            "06 = 1kW",
+            "10 = 2kW",
+            "12 = 3kW",
+            "15 = 4kW",
+            "18 = 5kW",
+            "22 = 6kW",
+            "26 = 8kW",
+            "30 = 9kW",
+            "40 = 9kW"
+        ],
+        "Overall Length list": [
+            "11 = .5kW",
+            "17 = 1kW",
+            "23 = 2kW",
+            "29 = 3kW",
+            "35 = 4kW",
+            "40 = 5kW",
+            "47 = 6kW",
+            "54 = 9kW"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 190\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 190\u00c2\u00b0F (Resettable Fuse)",
+            "P8 = 190\u00c2\u00b0 to 210\u00c2\u00b0F (Resettable Fuse)",
+            "P3 = 210\u00c2\u00b0 to 250\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXO206-06-17-P1-36"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}08-08{riser_location_code}-{riser_option_code}48-P3",
+        "Series": "HXSL = PTFE",
+        "Wattage List": [
+            "6 = 6000",
+            "5 = 5000",
+            "4 = 4000",
+            "3 = 3000",
+            "2 = 2000",
+            "1 = 1000"
+        ],
+        "Voltages": [
+            "9 = 220",
+            "8 = 208",
+            "7 = 400",
+            "6 = 600",
+            "5 = 415",
+            "4 = 480",
+            "3 = 380",
+            "2 = 240",
+            "1 = 120",
+            "0 = 200"
+        ],
+        "Width": "08\"",
+        "Length": "08\"",
+        "Riser Locations": [
+            "L = left front corner",
+            "R = right front corner"
+        ],
+        "Riser Options": [
+            "FR48 = flex riser length 48\"",
+            "R48 = rigid riser length 48\""
+        ],
+        "Type of Protector": "P3 = solutions up to 250\u00c2\u00b0F (121\u00c2\u00b0C)",
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXSL20608-08L-R48-P3"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}08-08{riser_location_code}-{riser_option_code}48-P3",
+        "Series": "HXRL = PTFE",
+        "Wattage List": [
+            "6 = 6000",
+            "5 = 5000",
+            "4 = 4000",
+            "3 = 3000",
+            "2 = 2000",
+            "1 = 1000"
+        ],
+        "Voltages": [
+            "9 = 220",
+            "8 = 208",
+            "7 = 400",
+            "6 = 600",
+            "5 = 415",
+            "4 = 480",
+            "3 = 380",
+            "2 = 240",
+            "1 = 120",
+            "0 = 200"
+        ],
+        "Width": "14\"",
+        "Length": "16\"",
+        "Riser Locations": [
+            "L = left front corner",
+            "R = right front corner"
+        ],
+        "Riser Options": [
+            "FR54 = flex riser length 54\"",
+            "R54 = rigid riser length 54\""
+        ],
+        "Type of Protector": "P3 = solutions up to 250\u00c2\u00b0F (121\u00c2\u00b0C)",
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXRL50608-14R-R54-P3"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}08-08{riser_location_code}-{riser_option_code}48-P3",
+        "Series": "HXOL = PTFE",
+        "Wattage List": [
+            "6 = 6000",
+            "5 = 5000",
+            "4 = 4000",
+            "3 = 3000",
+            "2 = 2000",
+            "1 = 1000"
+        ],
+        "Voltages": [
+            "9 = 220",
+            "8 = 208",
+            "7 = 400",
+            "6 = 600",
+            "5 = 415",
+            "4 = 480",
+            "3 = 380",
+            "2 = 240",
+            "1 = 120",
+            "0 = 200"
+        ],
+        "Width": "04\"",
+        "Length": "13\"",
+        "Riser Locations": [
+            "L = left front corner",
+            "R = right front corner"
+        ],
+        "Riser Options": [
+            "FR48 = flex riser length 48\"",
+            "R48 = rigid riser length 48\""
+        ],
+        "Type of Protector": "P3 = solutions up to 250\u00c2\u00b0F (121\u00c2\u00b0C)",
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXOL10608-04L-R48-P3"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}{length_code}-{protector}-36",
+        "Series": "HXT = PTFE",
+        "Wattage list": [
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Length (in.) list": [
+            "9 = 1kW",
+            "14 = 2kW",
+            "19 = 3kW",
+            "26 = 4kW",
+            "30 = 5kW",
+            "34 = 6kW"
+        ],
+        "Type of Protector": "P3 (std) = Solutions up to 250\u00c2\u00b0F (Resettable Fuse)",
+        "Wire & Conduit Length": "36\" length standard (no designator)",
+        "sample_model_no": "HXT219P3-36"
+    },
+    {
+        "model_no": "{series_code}{size_code}{collar_material_code}",
+        "Series": "IX",
+        "Size (NPT) list": [
+            "-5 = 1/2\"",
+            "-3 = 3/4\"",
+            "-1 = 1\"",
+            "-1-1/4 = 1 1/4\"",
+            "-1-1/2 = 1 1/2\"",
+            "-2 = 2\""
+        ],
+        "Collar Material list": [
+            "-S = 316 Stainless Steel",
+            "-T = Titanium"
+        ],
+        "sample_model_no": "IX-5-S"
+    },
+    {
+        "model_no": "{series}{voltage}{current}",
+        "Series": "LCX",
+        "Voltage list": [
+            "12",
+            "24",
+            "48",
+            "00",
+            "100"
+        ],
+        "Current list": [
+            "-1000",
+            "-500",
+            "-250",
+            "-200",
+            "-120"
+        ],
+        "sample_model_no": "LCX121000"
+    },
+    {
+        "model_no": "{series}{voltage}{current}",
+        "Series": "DTX",
+        "Voltage list": [
+            "12",
+            "24",
+            "48",
+            "100"
+        ],
+        "Current list": [
+            "-1000",
+            "-500",
+            "-250",
+            "-120"
+        ],
+        "sample_model_no": "DTX121000"
+    },
+    {
+        "Series": "DTX",
+        "Voltage list": [
+            "12",
+            "24",
+            "48",
+            "100"
+        ],
+        "Current list": [
+            "-125",
+            "-500",
+            "-250",
+            "-60"
+        ],
+        "sample_model_no": "DTX12600"
+    },
+    {
+        "Series": "DTX",
+        "Voltage list": [
+            "12",
+            "24",
+            "48",
+            "100"
+        ],
+        "Current list": [
+            "-10",
+            "-50",
+            "-100",
+            "-24"
+        ],
+        "sample_model_no": "DTX122400"
+    },
+    {
+        "model_no": "{series}{num_probes}{probe_material}{probe_lengths}{cable_length}{electronics}",
+        "Probe Series": "LP",
+        "Number of Probes list": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "Probe Material list": [
+            "S = 316 Stainless Steel",
+            "T = Titanium",
+            "H = Hastelloy C\u00c2\u00ae",
+            "G = Graphite (not field trimmable)"
+        ],
+        "Reference Probe \"C\" Length (inches)*": "1 - 96'",
+        "Probe 2 Length (inches)*": "1 - 96'",
+        "Probe 3 Length (inches)*": "1 - 96'",
+        "Probe 4 Length (inches)*": "1 - 96'",
+        "Probe 5 Length (inches)*": "1 - 96'",
+        "Probe 6 Length (inches)*": "1 - 96'",
+        "Cable Length list": [
+            "Blank = 120\"",
+            "-X121 = 240\""
+        ],
+        "Electronics list": [
+            "LCBA5 = electronics in plastic enclosure",
+            "LC = level switch circuit board only"
+        ],
+        "sample_model_no": "LP2S96-120-LCBA5"
+    },
+    {
+        "model_no": "{series}{num_probes}{probe_material}{probe_lengths}{cable_length}{electronics}",
+        "Probe Series": "LP",
+        "Number of Probes list": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "Probe Material list": [
+            "S = 316 Stainless Steel",
+            "T = Titanium",
+            "H = Hastelloy C\u00c2\u00ae",
+            "G = Graphite (not field trimmable)"
+        ],
+        "Reference Probe \"C\" Length (inches)*": "1 - 96'",
+        "Probe 2 Length (inches)*": "1 - 96'",
+        "Probe 3 Length (inches)*": "1 - 96'",
+        "Probe 4 Length (inches)*": "1 - 96'",
+        "Probe 5 Length (inches)*": "1 - 96'",
+        "Probe 6 Length (inches)*": "1 - 96'",
+        "Cable Length list": [
+            "Blank = 120\"",
+            "-X121 = 240\""
+        ],
+        "Electronics list": [
+            "LCBA5 = electronics in plastic enclosure",
+            "LC = level switch circuit board only"
+        ],
+        "sample_model_no": "LP2S96-120-LC"
+    },
+    {
+        "model_no": "{series_code}-{filter_diameter_code}-{length_code}{inlet_outlet_code}{chamber_end_code}{head_connection_code}",
+        "Series": "LTFH",
+        "Filter diameter list": [
+            "70 = 70mm filter",
+            "83 = 83mm filter"
+        ],
+        "Length list": [
+            "10 = 10\" overall length",
+            "20 = 20\" overall length",
+            "30 = 30\" overall length"
+        ],
+        "Inlet and Outlet Connections list": [
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "C = 1\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar",
+            "X = 1\" Super 300 Pillar"
+        ],
+        "Chamber End Connection (Drain in upright position) list": [
+            "O (or 0) = No connection",
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar"
+        ],
+        "Head Connections (Bleed in upright position) list": [
+            "O (or 0) = No connections",
+            "A = 1/2\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "Y = 1/4\" Super 300 Pillar",
+            "Z = 1/4\" Flared",
+            "2 = 1/8\" Super 300 Pillar",
+            "3 = 1/8\" Flared"
+        ],
+        "sample_model_no": "LTFH-70-10AOV"
+    },
+    {
+        "model_no": "{model_code}-{wattage_code}-{voltage_code}{inlet_code}{outlet_code}{flow_control_code}{option_code}",
+        "Model Version list": [
+            "LUF (DAC Control)",
+            "LLT (PID Control)"
+        ],
+        "Wattage list": [
+            "024 = 1 column",
+            "052 = 1 column",
+            "065 = 1 column",
+            "078* = 1 column",
+            "105 = 2 columns",
+            "130 = 2 columns",
+            "156* = 2 columns",
+            "195 = 2 columns",
+            "210* = 4 columns",
+            "260* = 4 columns",
+            "288* = 4 columns",
+            "312* = 4 columns"
+        ],
+        "Voltage list": [
+            "1 = 208V",
+            "2 = 240V",
+            "3 = 380V",
+            "4 = 400V",
+            "5 = 415V",
+            "6 = 480V",
+            "7 = 440V",
+            "9 = 220V",
+            "10 = 200V",
+            "12 = 600V",
+            "15 = 230V"
+        ],
+        "Inlet Plumbing list": [
+            "A = 1/2 inch Flared",
+            "B = 3/4 inch Flared",
+            "C = 1 inch Flared",
+            "L = 25 mm Butt Fusion",
+            "N = 32mm Socket Fusion Union",
+            "P = 1/2 inch Pillar",
+            "Q = 3/4 inch Pillar",
+            "R = 1 inch Pillar",
+            "S = 3/8 inch Flared",
+            "T = 3/8 inch Super 300 Pillar",
+            "U = 25mm Socket Fusion Union (Standard)",
+            "V = 1/2 inch Super 300 Pillar",
+            "W = 3/4 inch Super 300 Pillar",
+            "X = 1 inch Super 300 Pillar"
+        ],
+        "Outlet Plumbing list": [
+            "A = 1/2 inch Flared",
+            "B = 3/4 inch Flared",
+            "C = 1 inch Flared",
+            "L = 25 mm Butt Fusion",
+            "N = 32mm Socket Fusion Union",
+            "P = 1/2 inch Pillar",
+            "Q = 3/4 inch Pillar",
+            "R = 1 inch Pillar",
+            "S = 3/8 inch Flared",
+            "T = 3/8 inch Super 300 Pillar",
+            "U = 25mm Socket Fusion Union (Standard)",
+            "V = 1/2 inch Super 300 Pillar",
+            "W = 3/4 inch Super 300 Pillar",
+            "X = 1 inch Super 300 Pillar"
+        ],
+        "Flow Control list": [
+            "0 = Not Supplied (LLT version)",
+            "5 = Ultrasonic; 2-20 lpm (std for up to 52kW)",
+            "6 = Ultrasonic; 10-70 lpm (std for >52kW)",
+            "7 = Non-invasive; 0-20 lpm",
+            "8 = Non-invasive; 1-50 lpm",
+            "9 = Ultrasonic; 15-150 lpm, 25.4mm"
+        ],
+        "Options list": [
+            "Blank = No Option",
+            "C1 = Ethernet communications",
+            "C# = Other communications (see eng.)",
+            "RI = Expanded remote interface signals (LUF only)",
+            "R# = Other remote interface design (see eng.)",
+            "## = Custom design (see eng.)",
+            "UPS = Battery style backup",
+            "PS = Similar to UPS but with no batteries",
+            "EF = Flush mount EMO guard",
+            "L# = Leak Detect Switch",
+            "CE = CE certification",
+            "SK = Stack light",
+            "MB = Monitor boards for SSRs included"
+        ],
+        "sample_model_no": "LUF-024-2AUW5"
+    },
+    {
+        "model_no": "{series}{voltage_code}-{current_code}",
+        "Series": "LFP",
+        "Voltage (DC) list": [
+            "10 = 0-10",
+            "12 = 0-12",
+            "18 = 0-18",
+            "20 = 0-20"
+        ],
+        "Current (Amps) list": [
+            "500 = 0-500",
+            "750 = 0-750",
+            "1000 = 0-1000"
+        ],
+        "sample_model_no": "LFP12-500"
+    },
+    {
+        "model_no": "{series}{voltage_code}{current_code.strip('-')} XR",
+        "Series": "DC",
+        "Voltage (DC) list": [
+            "12 = 0-12"
+        ],
+        "Current (Amps) list": [
+            "-1 = 0-1",
+            "-3 = 0-3"
+        ],
+        "sample_model_no": "DC12-3 XR"
+    },
+    {
+        "model_no": "{series}{voltage_code}-{current_code}",
+        "Series": "CRS",
+        "Voltage (DC) list": [
+            "9 = 0-9",
+            "12 = 0-12",
+            "18 = 0-18",
+            "24 = 0-24",
+            "48 = 0-48"
+        ],
+        "Current (Amps) list": [
+            "10 = 0-10",
+            "25 = 0-25",
+            "50 = 0-50",
+            "100 = 0-100",
+            "150 = 0-150",
+            "200 = 0-200",
+            "250 = 0-250",
+            "300 = 0-300"
+        ],
+        "sample_model_no": "CRS24-100"
+    },
+    {
+        "model_no": "{series}{voltage_code}-{current_code} XR",
+        "Series list": [
+            "DP",
+            "DPR"
+        ],
+        "Voltage (DC) list": [
+            "20 = 0-20",
+            "40 = 0-40"
+        ],
+        "Current (Amps) list": [
+            "5-10 = 5/10 A",
+            "15-30 = 15/30 A",
+            "30-100 = 30/100 A",
+            "50-200 = 50/200 A",
+            "100-400 = 100/400 A",
+            "150-300 = 150/300 A",
+            "250-400 = 250/400 A"
+        ],
+        "sample_model_no": "DP40-15-30 XR"
+    },
+    {
+        "model_no": "{series}{voltage_code}-{current_code} XR",
+        "Series list": [
+            "DUP",
+            "DUPR"
+        ],
+        "Voltage (DC) list": [
+            "10 = 0-10"
+        ],
+        "Current (Amps) list": [
+            ".1-.3 = 0.1/0.3 A",
+            "1-3 = 1/3 A",
+            "3-6 = 3/6 A"
+        ],
+        "sample_model_no": "DUP10-1-3 XR"
+    },
+    {
+        "model_no": "{series}{voltage_code}-{current_code}",
+        "Series": "DHP",
+        "Voltage (DC) list": [
+            "9 = 0-9",
+            "12 = 0-12",
+            "18 = 0-18",
+            "24 = 0-24",
+            "30 = 0-30",
+            "36 = 0-36",
+            "48 = 0-48"
+        ],
+        "Current (Amps) list": [
+            "150 = 0-150",
+            "200 = 0-200",
+            "300 = 0-300",
+            "375 = 0-375",
+            "400 = 0-400",
+            "500 = 0-500",
+            "600 = 0-600",
+            "750 = 0-750",
+            "1000 = 0-1000",
+            "1500 = 0-1500",
+            "2000 = 0-2000",
+            "3000 = 0-3000"
+        ],
+        "sample_model_no": "DHP36-750"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "3P = Steel",
+            "3F = 304 stainless steel",
+            "3S = 316 stainless steel",
+            "3T = Titanium"
+        ],
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000",
+            "24 = 24000",
+            "27 = 27000",
+            "30 = 30000",
+            "36 = 36000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "11 = 3kW",
+            "17 = 6kW",
+            "23 = 9kW",
+            "29 = 12kW",
+            "35 = 15kW",
+            "40 = 18kW",
+            "47 = 24kW",
+            "54 = 27kW",
+            "59 = 30kW",
+            "60 = 36kW"
+        ],
+        "Phase list": [
+            "-3 = 3 phase (std)",
+            "-1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "3S36048060-3P5-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "3P = Steel",
+            "3F = 304 stainless steel",
+            "3S = 316 stainless steel",
+            "3T = Titanium"
+        ],
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000",
+            "24 = 24000",
+            "27 = 27000",
+            "30 = 30000",
+            "36 = 36000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "11 = 3kW",
+            "17 = 6kW",
+            "23 = 9kW",
+            "29 = 12kW",
+            "35 = 15kW",
+            "40 = 18kW",
+            "44 = 24kW",
+            "47 = 27kW",
+            "54 = 30kW",
+            "60 = 36kW"
+        ],
+        "Phase list": [
+            "-3 = 3 phase (std)",
+            "-1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "3F27024047-3P4-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "DP = Steel",
+            "DF = 304 stainless steel",
+            "DS = 316 stainless steel",
+            "DT = Titanium"
+        ],
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "1.5 = 1500",
+            "2 = 2000",
+            "2.5 = 2500",
+            "3 = 3000",
+            "4 = 4000",
+            "4.5 = 4500",
+            "5 = 5000",
+            "6 = 6000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "11 = .5kW",
+            "17 = 1kW",
+            "23 = 1.5kW",
+            "29 = 2kW",
+            "35 = 2.5kW",
+            "40 = 3kW",
+            "47 = 4kW",
+            "54 = 4.5kW",
+            "59 = 5kW",
+            "60 = 6kW"
+        ],
+        "Phase list": [
+            "Blank = single phase (std)",
+            "-3 = 3 phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "DF20012040-1P2-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "P = Steel",
+            "F = 304 stainless steel",
+            "S = 316 stainless steel",
+            "T = Titanium"
+        ],
+        "Wattage list": [
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "7 = 7000",
+            "8 = 8000",
+            "9 = 9000",
+            "10 = 10000",
+            "11 = 11000",
+            "12 = 12000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Overall Length (In.) list": [
+            "11 = 1kW",
+            "17 = 2kW",
+            "23 = 3kW",
+            "29 = 4kW",
+            "35 = 5kW",
+            "40 = 6kW",
+            "47 = 8kW",
+            "54 = 9kW",
+            "59 = 10kW",
+            "60 = 12kW"
+        ],
+        "Phase list": [
+            "Blank = single (std)",
+            "-3 = 3 phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse, Type-J TC)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse, Type-J TC)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse, Type-J TC)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse, Type-J TC)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse, Type-J TC)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse, Type-J TC)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "S60038059-3P6-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{h_length_code}{v_length_code}{riser_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "3LVP = Steel",
+            "3LVP = 304 stainless steel",
+            "3LVS = 316 stainless steel",
+            "3LVT = Titanium"
+        ],
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000",
+            "24 = 24000",
+            "27 = 27000",
+            "30 = 30000",
+            "36 = 36000"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Horizontal Length (In.) list": [
+            "13 = 3kW",
+            "17 = 6kW",
+            "22 = 9kW",
+            "26 = 12kW",
+            "31 = 15kW",
+            "36 = 18kW",
+            "44 = 24kW",
+            "50 = 27kW",
+            "55 = 30kW",
+            "64 = 36kW"
+        ],
+        "Vertical Length (In.) list": [
+            "-R19 = 3kW",
+            "-R37 = 6kW",
+            "-R37 = 9kW",
+            "-R37 = 12kW",
+            "-R37 = 15kW",
+            "-R50 = 18kW",
+            "-R50 = 24kW",
+            "-R50 = 27kW",
+            "-R50 = 30kW",
+            "-R50 = 36kW"
+        ],
+        "Riser Option list": [
+            "Blank = 90\u00c2\u00b0 horizontal bend (std)",
+            "-S = straight riser"
+        ],
+        "Phase list": [
+            "blank = single phase (std)",
+            "-3 = three phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "3LVS360-V19-R50-P3-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{h_length_code}{v_length_code}{riser_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "D3LP = Steel",
+            "D3LF = 304 stainless steel",
+            "D3LS = 316 stainless steel",
+            "D3LT = Titanium"
+        ],
+        "Wattage list": [
+            "1.5 = 1500",
+            "3 = 3000",
+            "4.5 = 4500",
+            "6 = 6000",
+            "7.5 = 7500",
+            "9 = 9000",
+            "12 = 12000",
+            "13.5 = 13500",
+            "15 = 15000",
+            "18 = 18000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Horizontal Length (In.) list": [
+            "13 = 1.5kW",
+            "17 = 3kW",
+            "22 = 4.5kW",
+            "26 = 6kW",
+            "31 = 7.5kW",
+            "36 = 9kW",
+            "44 = 12kW",
+            "50 = 13.5kW",
+            "55 = 15kW",
+            "64 = 18kW"
+        ],
+        "Vertical Length (In.) list": [
+            "-R15 = 1.5kW",
+            "-R19 = 3kW",
+            "-R25 = 4.5kW",
+            "-R37 = 6kW",
+            "-R37 = 7.5kW",
+            "-R50 = 9kW",
+            "-R50 = 12kW",
+            "-R50 = 13.5kW",
+            "-R50 = 15kW",
+            "-R50 = 18kW"
+        ],
+        "Riser Option list": [
+            "Blank = 90\u00c2\u00b0 horizontal bend (std)",
+            "S = straight riser"
+        ],
+        "Phase list": [
+            "blank = three phase (std)",
+            "-1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "D3LS45-400-22-R19-P2-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{h_length_code}{v_length_code}{riser_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "3LP = Steel",
+            "3LF = 304 stainless steel",
+            "3LS = 316 stainless steel",
+            "3LT = Titanium"
+        ],
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000",
+            "24 = 24000",
+            "27 = 27000",
+            "30 = 30000",
+            "36 = 36000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Horizontal Length (In.) list": [
+            "13 = 3kW",
+            "17 = 6kW",
+            "22 = 9kW",
+            "26 = 12kW",
+            "31 = 15kW",
+            "36 = 18kW",
+            "44 = 24kW",
+            "50 = 27kW",
+            "55 = 30kW",
+            "64 = 36kW"
+        ],
+        "Vertical Length (In.) list": [
+            "-R15 = 3kW",
+            "-R37 = 6kW",
+            "-R37 = 9kW",
+            "-R37 = 12kW",
+            "-R37 = 15kW",
+            "-R50 = 18kW",
+            "-R50 = 24kW",
+            "-R50 = 27kW",
+            "-R50 = 30kW",
+            "-R50 = 36kW"
+        ],
+        "Riser Option list": [
+            "Blank = 90\u00c2\u00b0 horizontal bend (std)",
+            "-S = straight riser"
+        ],
+        "Phase list": [
+            "blank = three phase (std)",
+            "-1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "3LT120-240-26-R15-P6-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{h_length_code}{v_length_code}{riser_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "DLP = Steel",
+            "DLF = 304 stainless steel",
+            "DLS = 316 stainless steel",
+            "DLT = Titanium"
+        ],
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "1.5 = 1500",
+            "2 = 2000",
+            "2.5 = 2500",
+            "3 = 3000",
+            "4 = 4000",
+            "4.5 = 4500",
+            "5 = 5000",
+            "6 = 6000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Horizontal Length (In.) list": [
+            "13 = .5kW",
+            "17 = 1kW",
+            "22 = 1.5kW",
+            "26 = 2kW",
+            "31 = 2.5kW",
+            "36 = 3kW",
+            "44 = 4kW",
+            "50 = 4.5kW",
+            "55 = 5kW",
+            "64 = 6kW"
+        ],
+        "Vertical Length (In.) list": [
+            "-R15 = .5kW",
+            "-R19 = 1kW",
+            "-R25 = 1.5kW",
+            "-R25 = 2kW",
+            "-R37 = 2.5kW",
+            "-R50 = 3kW",
+            "-R50 = 4kW",
+            "-R50 = 4.5kW",
+            "-R50 = 5kW",
+            "-R50 = 6kW"
+        ],
+        "Riser Option list": [
+            "Blank = 90\u00c2\u00b0 horizontal bend (std)",
+            "S = straight riser"
+        ],
+        "Phase list": [
+            "Blank = single phase (std)",
+            "-3 = three phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 220\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length list": "36\" length standard (no designator)",
+        "sample_model_no": "DLS20-220-22-R25-P4-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{h_length_code}{v_length_code}{riser_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "LP = Steel",
+            "LF = 304 stainless steel",
+            "LS = 316 stainless steel",
+            "LT = Titanium"
+        ],
+        "Wattage list": [
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "7 = 7000",
+            "8 = 8000",
+            "9 = 9000",
+            "10 = 10000",
+            "11 = 11000",
+            "12 = 12000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Horizontal Length (In.) list": [
+            "13 = 1kW",
+            "17 = 2kW",
+            "22 = 3kW",
+            "26 = 4kW",
+            "31 = 5kW",
+            "36 = 6kW",
+            "44 = 8kW",
+            "50 = 9kW",
+            "55 = 10kW",
+            "64 = 12kW"
+        ],
+        "Vertical Length (In.) list": [
+            "-R15 = 1kW",
+            "-R19 = 2kW",
+            "-R25 = 3kW",
+            "-R25 = 4kW",
+            "-R37 = 5kW",
+            "-R50 = 6kW",
+            "-R50 = 9kW",
+            "-R50 = 10kW",
+            "-R50 = 12kW"
+        ],
+        "Riser Option list": [
+            "Blank = 90\u00c2\u00b0 horizontal bend (std)",
+            "S = straight riser"
+        ],
+        "Phase list": [
+            "Blank = single phase (std)",
+            "-3 = three phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator), specify variations from standard Ex: -X84 = 84\"",
+        "sample_model_no": "LS600-480-36-R50-P7-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{h_length_code}{v_length_code}{riser_code}{phase_code}-{protector_code}-36",
+        "Series": [
+            "3LVP = Steel",
+            "3LVF = 304 stainless steel",
+            "3LVS = 316 stainless steel",
+            "3LVT = Titanium"
+        ],
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000",
+            "15 = 15000",
+            "18 = 18000",
+            "24 = 24000",
+            "27 = 27000",
+            "30 = 30000",
+            "36 = 36000"
+        ],
+        "Voltage list": [
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 208",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Horizontal Length (In.) list": [
+            "13 = 3kW",
+            "17 = 6kW",
+            "22 = 9kW",
+            "26 = 12kW",
+            "31 = 15kW",
+            "36 = 18kW",
+            "44 = 24kW",
+            "50 = 27kW",
+            "55 = 30kW",
+            "64 = 36kW"
+        ],
+        "Vertical Length (In.) list": [
+            "-R19 = 3kW",
+            "-R37 = 6kW",
+            "-R37 = 9kW",
+            "-R37 = 12kW",
+            "-R37 = 15kW",
+            "-R50 = 18kW",
+            "-R50 = 24kW",
+            "-R50 = 27kW",
+            "-R50 = 30kW",
+            "-R50 = 36kW"
+        ],
+        "Riser Option list": [
+            "Blank = 90\u00c2\u00b0 horizontal bend (std)",
+            "S = straight riser"
+        ],
+        "Phase list": [
+            "Blank = three phase (std)",
+            "-1 = single phase"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = solutions up to 180\u00c2\u00b0F (Replaceable Fuse)",
+            "P4 = solutions up to 230\u00c2\u00b0F (Replaceable Fuse)",
+            "P5 = solutions up to 300\u00c2\u00b0F (Replaceable Fuse)",
+            "P2 = solutions up to 180\u00c2\u00b0F (Resettable Fuse)",
+            "P6 = solutions up to 230\u00c2\u00b0F (Resettable Fuse)",
+            "P7 = solutions up to 300\u00c2\u00b0F (Resettable Fuse)"
+        ],
+        "Wire & Conduit Length": "36\" length standard (no designator), specify variations from standard Ex: -X84 = 84\"",
+        "sample_model_no": "3LVF360-480-50-R37-P1-36"
+    },
+    {
+        "model_no": "{series}/{flow_path}-{wattage}-{voltage}{phases}{inlet_connection}{outlet_connection}{sensor_types}{tco_ratings}-{element_type}",
+        "Series": "NEX = Multi-Loop Series",
+        "# Flow Paths & Flow Types list": [
+            "1L = 1 path low flow",
+            "1H = 1 path high flow",
+            "2L = 2 path low flow",
+            "2H = 2 path high flow",
+            "3L = 3 path low flow",
+            "3H = 3 path high flow",
+            "4L = 4 path low flow",
+            "4H = 4 path high flow"
+        ],
+        "Wattage list": [
+            ".25 = 250",
+            ".4 = 400",
+            ".5 = 500",
+            ".75 = 750",
+            ".8 = 800",
+            ".875 = 875",
+            "1 = 1000",
+            "1.2 = 1200",
+            "1.25 = 1250",
+            "1.4 = 1400",
+            "1.6 = 1600",
+            "2 = 2000"
+        ],
+        "Voltage list": [
+            "1 = 208",
+            "2 = 240",
+            "3 = 380",
+            "4 = 400",
+            "5 = 415",
+            "6 = 480",
+            "7 = 440",
+            "8 = 575",
+            "9 = 220",
+            "10 = 200",
+            "12 = 120",
+            "14 = 600",
+            "15 = 230",
+            "16 = 450"
+        ],
+        "Phase list": "1 = single phase",
+        "Inlet Connection list": [
+            "Q = 3.1 mm Super 300 Pillar",
+            "R = 6.3 mm Super 300 Pillar",
+            "4 = 6.3 mm SMC Hyperflare",
+            "8 = 3.1 mm SMC Hyperflare"
+        ],
+        "Outlet Connection list": [
+            "Q = 3.1 mm Super 300 Pillar",
+            "R = 6.3 mm Super 300 Pillar",
+            "4 = 6.3 mm SMC Hyperflare",
+            "8 = 3.1 mm SMC Hyperflare"
+        ],
+        "Sensor Type list": "H = RTD 100",
+        "TCO Rating list": "1 = 90 C",
+        "Element Type list": [
+            "R = Resistive",
+            "P = PTC"
+        ],
+        "sample_model_no": "NEX/1L-.25-1201Q-QH1-R"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}{options_code}{protector_code}{wire_conduit_length}",
+        "Series": "QM = Quartz",
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "3.5 = 3500",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "8 = 8000",
+            "10 = 10000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "4 = 480",
+            "-208- = 208",
+            "-380- = 380",
+            "-415- = 415",
+            "-600- = 600"
+        ],
+        "Length list": [
+            "10 = .5kW",
+            "11 = 1kW",
+            "17 = 2kW",
+            "23 = 3kW",
+            "29 = 3.5kW",
+            "35 = 4kW",
+            "41 = 5kW",
+            "47 = 6kW",
+            "59 = 8kW",
+            "71 = 10kW",
+            "Specify custom lengths, not to exceed tank depth"
+        ],
+        "Options list": [
+            "No designator = single phase power (standard)",
+            "-3 = three phase power"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = for solutions up to 180\u00c2\u00b0F (Replaceable Protector)",
+            "P4 = for solutions up to 230\u00c2\u00b0F (Replaceable Protector)",
+            "P2 = for solutions up to 180\u00c2\u00b0F (Resettable Protector)",
+            "P6 = for solutions up to 180\u00c2\u00b0F (Resettable Protector)"
+        ],
+        "Wire and Conduit Length": "36\" length standard (no designator), specify variations from standard Ex: -X84 = 84\"",
+        "sample_model_no": "QM111P1-36"
+    },
+    {
+        "model_no": "{series_code}{wattage_code}{voltage_code}{length_code}{options_code}{protector_code}{wire_conduit_length}",
+        "Series": "QM = Quartz",
+        "Wattage list": [
+            ".5 = 500",
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "3.5 = 3500",
+            "4 = 4000",
+            "5 = 5000",
+            "6 = 6000",
+            "8 = 8000",
+            "10 = 10000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "4 = 480",
+            "-208- = 208",
+            "-380- = 380",
+            "-415- = 415",
+            "-600- = 600"
+        ],
+        "Length list": [
+            "10 = .5kW",
+            "11 = 1kW",
+            "17 = 2kW",
+            "23 = 3kW",
+            "29 = 3.5kW",
+            "35 = 4kW",
+            "41 = 5kW",
+            "47 = 6kW",
+            "59 = 8kW",
+            "71 = 10kW",
+            "Specify custom lengths, not to exceed tank depth"
+        ],
+        "Options list": [
+            "No designator = single phase power (standard)",
+            "-3 = three phase power"
+        ],
+        "Type of Protector list": [
+            "P1 (std) = for solutions up to 180\u00c2\u00b0F (Replaceable Protector)",
+            "P4 = for solutions up to 230\u00c2\u00b0F (Replaceable Protector)",
+            "P2 = for solutions up to 180\u00c2\u00b0F (Resettable Protector)",
+            "P6 = for solutions up to 180\u00c2\u00b0F (Resettable Protector)"
+        ],
+        "Wire and Conduit Length": "36\" length standard (no designator), specify variations from standard Ex: -X84 = 84\"",
+        "sample_model_no": "QM1.511P1-36"
+    },
+    {
+        "model_no": "{series_code}{wetted_material_code}-{wattage_code}-{voltage_code}{phase_code}{plumbing_code}",
+        "Series": "SH = Solvent",
+        "Wetted Material list": [
+            "B = 316SS (EP)",
+            "C = Fluoropolymer"
+        ],
+        "Wattage list": [
+            ".25 = 250",
+            ".4 = 400",
+            ".5 = 500",
+            ".75 = 750",
+            ".8 = 800",
+            ".875 = 875",
+            "1 = 1000",
+            "1.2 = 1200",
+            "1.25 = 1250",
+            "1.4 = 1400",
+            "1.6 = 1600",
+            "2 = 2000"
+        ],
+        "Voltage list": [
+            "1 = 208V",
+            "2 = 240V",
+            "3 = 380V",
+            "4 = 400V",
+            "5 = 415V",
+            "6 = 480V",
+            "7 = 440V",
+            "8 = 575V",
+            "9 = 220V",
+            "10 = 200V",
+            "11 = skip",
+            "12 = 120V",
+            "13 = skip",
+            "14 = 600V"
+        ],
+        "Phase list": "1 = single phase",
+        "Inlet Plumbing Connections list": [
+            "O = 5/16\" Tube Stub (SHB Only)",
+            "Q = 1/8\" Super 300 Pillar",
+            "R = 1/4\" Super 300 Pillar",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar"
+        ],
+        "sample_model_no": "SHB-1-.25-2-1O"
+    },
+    {
+        "model_no": "{unit_code}{series_code}{wattage_code}-{voltage_code}{phase_code}{inlet_outlet_code}{plumbing_code}-{element_sensor_code}{process_sensor_code}{tco_rating_code}{option_code}",
+        "Number of Units list": [
+            "blank = 1",
+            "2 = 2 (12kW* only, *2 - 6kW units)"
+        ],
+        "Series": "SHX",
+        "Wattage list": [
+            "3 = 3000",
+            "6 = 6000",
+            "9 = 9000",
+            "12 = 12000"
+        ],
+        "Voltage list": [
+            "1 = 208",
+            "2 = 240",
+            "3 = 380",
+            "4 = 400",
+            "5 = 415",
+            "6 = 480",
+            "7 = 440",
+            "9 = 220",
+            "10 = 200",
+            "12 = 120",
+            "15 = 230",
+            "16 = 460"
+        ],
+        "Phase list": [
+            "1 = Single Phase",
+            "3 = Three Phase"
+        ],
+        "Inlet/Outlet Connection list": [
+            "A = 1/2 inch Flared",
+            "B = 3/4 inch Flared",
+            "V = 1/2 inch Super 300 Pillar",
+            "W = 3/4 inch Super 300 Pillar",
+            "X = 1 inch Super 300 Pillar (Only size option for 12kW, not an option for 6kW)"
+        ],
+        "Plumbing Configuration list": [
+            "O = Inlet/Outlet on the top",
+            "B = Inlet at the bottom and Outlet at the top",
+            "C = Inlet/Outlet on the side (Only size option for 9kW & 12kW, not an option for 6kW)"
+        ],
+        "Element Sensor Type list": [
+            "E = Type E thermocouple",
+            "J = Type J thermocouple",
+            "K = Type K thermocouple",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)"
+        ],
+        "Process Sensor Type list": [
+            "0 = No Sensor",
+            "E = Type E thermocouple",
+            "J = Type J thermocouple",
+            "K = Type K thermocouple",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)"
+        ],
+        "TCO Rating list": [
+            "1 = 176\u00c2\u00b0C",
+            "2 = 150\u00c2\u00b0C* (To maintain UL499, TCO cannot be higher than 150\u00c2\u00b0C)",
+            "3 = TBD"
+        ],
+        "Options list": [
+            "EX = Hazardous Location Zone 1",
+            "Blank = No Option",
+            "## = Custom design"
+        ],
+        "sample_model_no": "2SHX6-2403AV-KE176EX"
+    },
+    {
+        "model_no": "{series}{no_of_passes}{coil_length_code}{material_code}{misc_code}{riser_height_code}{inlet_code}{outlet_code}",
+        "Series": "SP = Serpentine",
+        "No. of Passes list": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "Coil Length list": [
+            "-24 = 24\""
+        ],
+        "Material list": [
+            "P = Steel",
+            "S = 316 stainless steel",
+            "T = Titanium",
+            "H = Hastelloy C\u00c2\u00ae",
+            "Z = Zirconium"
+        ],
+        "Miscellaneous list": [
+            "-LP = low profile (see dimensions)"
+        ],
+        "Riser Height list": [
+            "-R = Specify riser height in inches",
+            "-BR = Bottom style coil (specify riser height)"
+        ],
+        "Inlet list": [
+            "A = 3/4\" MNPT",
+            "B = 1\" MNPT (standard)",
+            "C = 1-1/4\" MNPT",
+            "D = 1-1/2\" MNPT",
+            "F = 1/2\" FNPT",
+            "G = 3/4\" FNPT",
+            "H = 1\" FNPT",
+            "J = 1/2\" FNPT"
+        ],
+        "Outlet list": [
+            "A = 3/4\" MNPT",
+            "B = 1\" MNPT (standard)",
+            "C = 1-1/4\" MNPT",
+            "D = 1-1/2\" MNPT",
+            "F = 1/2\" FNPT",
+            "G = 3/4\" FNPT",
+            "H = 1\" FNPT",
+            "J = 1/2\" FNPT"
+        ],
+        "sample_model_no": "SP4-24S-LP-R12A-H"
+    },
+    {
+        "model_no": "{series_code}{size_code}{service_code}{options_code}",
+        "Series": "S = solenoid valve",
+        "Size (FNPT) list": [
+            "5 = 1/2\"",
+            "3 = 3/4\"",
+            "1 = 1\"",
+            "1-1/4 = 1-1/4\"",
+            "1-1/2 = 1-1/2\"",
+            "2 = 2\""
+        ],
+        "Service list": [
+            "W = water",
+            "S = steam"
+        ],
+        "Options list": [
+            "NO = normally open",
+            "240 = 240 volts"
+        ],
+        "sample_model_no": "S51W240"
+    },
+    {
+        "model_no": "{series_code}{size_code}",
+        "Series": "ST",
+        "Size (FNPT) list": [
+            "5 = 1/2\"",
+            "3 = 3/4\"",
+            "1 = 1\"",
+            "1-1/4 = 1 1/4\"",
+            "1-1/2 = 1 1/2\"",
+            "2 = 2\""
+        ],
+        "sample_model_no": "ST5"
+    },
+    {
+        "model_no": "{series_code}{voltage_code}{length_code}{wattage_code}{option_code}36",
+        "Series": [
+            "FT = 304 stainless steel",
+            "ST = 316 stainless steel",
+            "TT = titanium"
+        ],
+        "Wattage list": [
+            "1 = 1000",
+            "2 = 2000",
+            "3 = 3000",
+            "4 = 4000",
+            "5 = 415",
+            "6 = 6000",
+            "8 = 8000",
+            "9 = 9000",
+            "12 = 12000"
+        ],
+        "Voltage list": [
+            "1 = 120",
+            "2 = 240",
+            "3 = 380",
+            "4 = 480",
+            "5 = 415",
+            "6 = 600",
+            "7 = 400",
+            "8 = 240",
+            "9 = 220",
+            "0 = 200"
+        ],
+        "Length (in.) list": [
+            "10 = 1kW",
+            "14 = 2kW",
+            "19 = 3kW",
+            "23 = 4kW",
+            "33 = 6kW",
+            "40 = 8kW",
+            "47 = 9kW",
+            "61 = 12kW"
+        ],
+        "Options list": [
+            "no designator = single phase power (standard)",
+            "-3 = three phase power"
+        ],
+        "Wire and Conduit Length": "no designator = 36 \" length standard",
+        "sample_model_no": "ST214-336"
+    },
+    {
+        "model_no": "{layer}{model}-{wattage}-{plan_number}",
+        "Number of Layers list": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "Model list": [
+            "TFB",
+            "TFW"
+        ],
+        "Wattage list": [
+            "1000"
+        ],
+        "Plan Number list": [
+            "XXX (assigned)"
+        ],
+        "sample_model_no": "1TFB-1000-XXX"
+    },
+    {
+        "model_no": "{series}{voltage_code}-{wattage:02}{phase}{inlet_outlet_code}{drain_code}{plumbing_code}{process_sensor_code}{overtemp_sensor_code}",
+        "Series": "TIH = Heater",
+        "Wattage, kW list": "01 thru 18",
+        "Voltage list": [
+            "1 = 208V",
+            "2 = 240V",
+            "3 = 380V",
+            "4 = 400V",
+            "5 = 415V",
+            "6 = 480V",
+            "7 = 440V",
+            "8 = 575V",
+            "9 = 220V",
+            "10 = 200V",
+            "14 = 600V",
+            "15 = 230V",
+            "16 = 450V"
+        ],
+        "Phase list": [
+            "1",
+            "3"
+        ],
+        "Inlet and Outlet Connections list": [
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "C = 1\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "U = 25mm union",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar",
+            "X = 1\" Super 300 Pillar",
+            "4 = 20mm union"
+        ],
+        "Drain Connection list": [
+            "O (or 0) = No Drain",
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar",
+            "Y = 1/4\" Super 300 Pillar",
+            "Z = 1/4\" Flared",
+            "4 = 20mm union"
+        ],
+        "Plumbing Configuration list": [
+            "S = Straight (180\u00c2\u00b0 opposed inlet, outlet, center-bottom drain)",
+            "R = Bottom side inlet, rotated 90\u00c2\u00b0 to right of outlet (center-bottom drain)",
+            "L = Bottom side inlet, rotated 90\u00c2\u00b0 to left of outlet (center-bottom drain)",
+            "E = Bottom side inlet, directly below outlet (center-bottom drain)",
+            "A = Bottom side inlet, rotated 180\u00c2\u00b0 from outlet (center-bottom drain)",
+            "B = Bottom inlet center of bottom (standard no drain, side bottom drain if required)",
+            "C = Straight (side-drain, below inlet)",
+            "D = Straight (side-drain, below outlet)",
+            "H = Horizontal design (similar to B, but with drain on lower side, opposite outlet)",
+            "Other configurations = issue new plumbing designation"
+        ],
+        "Process Sensor Type list": [
+            "J = Type J thermocouple",
+            "K = Type K thermocouple",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)",
+            "O = No process sensor"
+        ],
+        "Overtemp Sensor Type list": [
+            "E = Type E thermocouple",
+            "K = Type K thermocouple",
+            "H = 100-Ohm RTD (2-wire)",
+            "R = 1000-Ohm RTD (2-wire)"
+        ],
+        "sample_model_no": "TIH2-06-3B0SJOE"
+    },
+    {
+        "model_no": "{series}{wattage_code}{voltage_code}{phase_code}{option_code}",
+        "Series": "TY = Tytan",
+        "Wattage List": [
+            "-012 = 12kW",
+            "-018 = 18kW",
+            "-024 = 24kW",
+            "-036 = 36kW",
+            "-048 = 48kW",
+            "-072 = 72kW",
+            "-096 = 96kW",
+            "-120 = 120kW",
+            "-140 = 140kW",
+            "-144 = 144kW"
+        ],
+        "Voltages": [
+            "-240",
+            "-480"
+        ],
+        "Phase": [
+            "-1 = single phase",
+            "-3 = three phase"
+        ],
+        "Options": [
+            "-SC = SEMI S2 and CE compliant",
+            "-CB = Include disconnect and circuit breaker",
+            "-RI = Remote control interface",
+            "-RI2 = 2-Bit control",
+            "-RC1 = Remote Communications, RS485",
+            "-RC2 = Remote Communications, RS232",
+            "RC3 = Remote Communications,4-20 mA",
+            "-MA = 4-20mA output for recording",
+            "-PLC = PLC based control system",
+            "-S = Stainless steel heating cqtumns",
+            "-FM1 = Digital Flow Meter",
+            "-FS = Flow switch (external to enclosure)"
+        ],
+        "sample_model_no": "TY-024-240-3-SC"
+    },
+    {
+        "model_no": "{series}{coil_length}{material_code}{inlet_outlet_code}{misc}",
+        "Series": "UC = \"U\" Coil",
+        "Coil Length list": "-24 = 24\"",
+        "Coil Width list": "no designator = 12\"",
+        "Material list": [
+            "P = Steel",
+            "S = 316 Stainless Steel",
+            "T = Titanium",
+            "H = Hastelloy C\u00c2\u00ae",
+            "Z = Zirconium"
+        ],
+        "Inlet/Outlet list": [
+            "A = 3/4\" MNPT",
+            "B = 1\" MNPT (standard)",
+            "C = 1-1/4\" MNPT",
+            "D = 1-1/2\" MNPT",
+            "F = 1/2\" FNPT",
+            "G = 3/4\" FNPT",
+            "H = 1\" FNPT",
+            "J = 1/2\" MNPT"
+        ],
+        "Misc. list": "-BR48 = bottom style with 48\" riser height",
+        "sample_model_no": "UC-24SBR48"
+    },
+    {
+        "model_no": "{series_code}{size_code}",
+        "Series": "VB",
+        "Size (NPT) list": [
+            "-5 = 1/2\""
+        ],
+        "sample_model_no": "VB-5"
+    },
+    {
+        "model_no": "{series_code}{mounting_code}{length_code}{material_code}{option_code}",
+        "Series": "W Series",
+        "Mounting list": [
+            "no designator = flange mount",
+            "T = 1/2\" NPT connection"
+        ],
+        "Length list": [
+            "12 = 12\"",
+            "24 = 24\"",
+            "36 = 36\"",
+            "specify custom lengths"
+        ],
+        "Material list": [
+            "WQ = Quartz",
+            "WF = 304 Stainless Steel",
+            "WS = 316 Stainless Steel",
+            "WT = Titanium",
+            "WX = Fluoropolymer (FEP)"
+        ],
+        "Options list": [
+            "X = any special configuration not called out in the part number (specify in clear text)"
+        ],
+        "sample_model_no": "WT12WS"
+    },
+    {
+        "model_no": "{series_code}{num_tubes}{coil_height_code}{coil_width_code}-{d_dimension_code}-{material_code}{option_code}",
+        "Series": "X = Fluoropolymer",
+        "Number of Tubes list": [
+            "2",
+            "3",
+            "4"
+        ],
+        "Coil Height (Inches) list": [
+            "12 = 11.5\"",
+            "16 = 15.5\"",
+            "18 = 17.5\"",
+            "24 = 23.5\""
+        ],
+        "Coil Width (Inches) list": [
+            "12 = 11.5\"",
+            "16 = 15.5\"",
+            "18 = 17.5\"",
+            "24 = 23.5\""
+        ],
+        "D Dimension (Inches) list": [
+            "18 - 17.5\"",
+            "22 - 21.5\"",
+            "24 - 23.5\"",
+            "30 - 29.5\"",
+            "Std cold zone is 6\""
+        ],
+        "Type of Material list": [
+            "F = FEP",
+            "P = PFA"
+        ],
+        "Options list": [
+            "-LP = low pressure manifold (standard)",
+            "-A = connections up",
+            "-B = connections to left and right sides",
+            "-BR = bottom riser (specify riser height)"
+        ],
+        "sample_model_no": "X21212-18-F-LP"
+    },
+    {
+        "model_no": "{series_code}{material_code}{exchanger_area_code}-{a_circuit_code}{b_circuit_code}{drain_connection_code}-{options_code}",
+        "Series": "XC = XC Series",
+        "Material list": [
+            "P = Polypro Chamber",
+            "K = Kynar PVDF Chamber",
+            "X = PTFE Chamber**"
+        ],
+        "Exchanger Area list": [
+            "1.5 = .14m2 (1.5ft2)",
+            "2.5 = .23m2 (2.5ft2)",
+            "3.5 = .33m2 (3.5ft2)"
+        ],
+        "A Circuit Connections (Tube) list": [
+            "A = 1/2\" Flared",
+            "B* = 3/4\" Flared",
+            "C = 1\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "U* = 25mm union",
+            "V = 1/2\" Super 300 Pillar",
+            "W* = 3/4\" Super 300 Pillar"
+        ],
+        "B Circuit Connections (Shell) list": [
+            "A = 1/2\" Flared",
+            "B* = 3/4\" Flared",
+            "C = 1\" Flared",
+            "D = 3/8\" FNPT (via union)",
+            "F = 1/2\" FNPT (via union)",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar",
+            "X = 1\" Super 300 Pillar"
+        ],
+        "Drain Connection list": [
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "C = 1\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "W* = 3/4\" Super 300 Pillar",
+            "X* = 1\" Super 300 Pillar",
+            "Y = 1/4\" Super 300 Pillar",
+            "Z = 1/4\" Flared",
+            "O = 3/8\" Pipe size stub",
+            "G = 1/2\" FNPT (direct connect)",
+            "No drain = Blank"
+        ],
+        "Options list": [
+            "THK = .062\" wall exchanger tubing",
+            "SS = 316SS FNPT union half",
+            "P = PFA Ferrule (standard is PVDF)",
+            "HF = XC High Flow Version (**Not available in PTFE)"
+        ],
+        "sample_model_no": "XCP1.5-AAC-THK"
+    },
+    {
+        "model_no": "{series_code}{material_code}{exchanger_area_code}-{a_circuit_code}{b_circuit_code}{drain_connection_code}-{options_code}",
+        "Series": "XC = XC Series",
+        "Material list": [
+            "P = Polypro Chamber",
+            "K = Kynar PVDF Chamber",
+            "X = PTFE Chamber**"
+        ],
+        "Exchanger Area list": [
+            "1.5 = .14m2 (1.5ft2)",
+            "2.5 = .23m2 (2.5ft2)",
+            "3.5 = .33m2 (3.5ft2)"
+        ],
+        "A Circuit Connections (Tube) list": [
+            "A = 1/2\" Flared",
+            "B* = 3/4\" Flared",
+            "C = 1\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "U = 25mm union",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar"
+        ],
+        "B Circuit Connections (Shell) list": [
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "C = 1\" Flared",
+            "D = 3/8\" FNPT (via union)",
+            "F = 1/2\" FNPT (via union)",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar",
+            "X = 1\" Super 300 Pillar"
+        ],
+        "Drain Connection list": [
+            "A = 1/2\" Flared",
+            "B = 3/4\" Flared",
+            "C = 1\" Flared",
+            "S = 3/8\" Flared",
+            "T = 3/8\" Super 300 Pillar",
+            "V = 1/2\" Super 300 Pillar",
+            "W = 3/4\" Super 300 Pillar",
+            "X = 1\" Super 300 Pillar",
+            "Y = 1/4\" Super 300 Pillar",
+            "Z = 1/4\" Flared",
+            "O = 3/8\" Pipe size stub",
+            "G = 1/2\" FNPT (direct connect)",
+            "No drain = Blank"
+        ],
+        "Options list": [
+            "THK = .062\" wall exchanger tubing",
+            "SS = 316SS FNPT union half",
+            "P = PFA Ferrule (standard is PVDF)"
+        ],
+        "sample_model_no": "XCP1.5-AAC-THK"
+    }
+]
