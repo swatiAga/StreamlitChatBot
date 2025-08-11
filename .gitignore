@@ -46,3 +46,5 @@ desktop.ini
 
 # --- Odd Windows path entries that appeared in the zip
 C:\Users*/
+# --- Miscellaneous
+Conda connection string.txt
